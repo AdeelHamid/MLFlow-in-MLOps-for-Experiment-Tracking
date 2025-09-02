@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6e9fad2abbaa4a08b963f4071047b214/artifacts
+end_time: 1756788700404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e9fad2abbaa4a08b963f4071047b214
+run_name: melodic-fowl-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756788697924
+status: 3
+tags: []
+user_id: adeel

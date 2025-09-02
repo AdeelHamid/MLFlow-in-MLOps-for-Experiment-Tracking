@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/952180467234760360/5e423a7e5c754355b5fd92896777d2f5/artifacts
+end_time: 1756792666540
+entry_point_name: ''
+experiment_id: '952180467234760360'
+lifecycle_stage: active
+run_id: 5e423a7e5c754355b5fd92896777d2f5
+run_name: inquisitive-bear-264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756792647555
+status: 3
+tags: []
+user_id: adeel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/952180467234760360/4fdf40b987ed44d4a9d688f86b089e71/artifacts
+deleted_time: 1756792890785
+end_time: 1756792252341
+entry_point_name: ''
+experiment_id: '952180467234760360'
+lifecycle_stage: deleted
+run_id: 4fdf40b987ed44d4a9d688f86b089e71
+run_name: rebellious-hog-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756792249531
+status: 4
+tags: []
+user_id: adeel

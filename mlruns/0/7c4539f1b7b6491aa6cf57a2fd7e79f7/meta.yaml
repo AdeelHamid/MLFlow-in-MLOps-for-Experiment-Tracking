@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7c4539f1b7b6491aa6cf57a2fd7e79f7/artifacts
+end_time: 1756788441812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c4539f1b7b6491aa6cf57a2fd7e79f7
+run_name: enchanting-lark-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756788439296
+status: 3
+tags: []
+user_id: adeel

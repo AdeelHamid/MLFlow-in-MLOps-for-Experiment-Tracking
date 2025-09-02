@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c62b5fe9418b4281a026a1effe37d9c8/artifacts
+end_time: 1756786958336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c62b5fe9418b4281a026a1effe37d9c8
+run_name: bold-mare-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756786958263
+status: 3
+tags: []
+user_id: adeel

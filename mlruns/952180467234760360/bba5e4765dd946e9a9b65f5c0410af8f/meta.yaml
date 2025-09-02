@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/952180467234760360/bba5e4765dd946e9a9b65f5c0410af8f/artifacts
+end_time: 1756792427467
+entry_point_name: ''
+experiment_id: '952180467234760360'
+lifecycle_stage: active
+run_id: bba5e4765dd946e9a9b65f5c0410af8f
+run_name: nosy-donkey-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756792393908
+status: 3
+tags: []
+user_id: adeel
